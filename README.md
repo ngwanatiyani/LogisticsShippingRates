@@ -1,8 +1,7 @@
-<span style="color: red">
 
-  # LogisticsShippingRates
+# LogisticsShippingRates
   
-</span> 
+
 ## Please consider the below factors while contributing
 
 #### 1. Code Style:
